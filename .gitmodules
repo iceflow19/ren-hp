@@ -3,8 +3,8 @@ path = mosh-fcgi
 url = https://github.com/iceflow19/mosh-fcgi.git
 
 [submodule "ren-c"]
-path = ren-c
-url = https://github.com/metaeducation/ren-c.git
+	path = ren-c
+	url = https://github.com/metaeducation/ren-c.git
 
 [submodule "ren-cpp"]
 path = ren-cpp
